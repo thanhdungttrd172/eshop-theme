@@ -8,7 +8,7 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
-  "author": "findx",
+  "author": "outfiz",
   "repository": {
     "url": "git://github.com/thanhdungttrd172/eshop-theme.git"
   },
