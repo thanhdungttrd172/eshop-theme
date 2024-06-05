@@ -1,0 +1,38 @@
+.button-select-erp {
+  width: 112px;
+  height: 32px !important;
+  border-radius: 3px;
+  display: flex;
+  flex-direction: row;
+  border: none;
+  border-color: none;
+  &:focus {
+    border: none;
+  }
+  .btn-search {
+    border: none;
+    height: 100%;
+    outline: none;
+    width: 78px;
+    background-color: #138300;
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 14px;
+    border-radius: 3px 0px 0px 3px;
+    padding: 6px 10px;
+    &:hover {
+      background-color: #1ba103;
+      color: #ffffff;
+    }
+  }
+
+  .btn-select {
+    border: none;
+    outline: none;
+    height: 100%;
+    width: 34px;
+    background-color: #59a84c;
+    padding: 4px 6px 6px;
+    border-radius: 0px 3px 3px 0px;
+  }
+}

@@ -1,0 +1,24 @@
+.findx-box {
+  background-color: #ffffff;
+  border-radius: 3px;
+
+  .box-title {
+    padding: 20px;
+    padding-bottom: 5px !important;
+    font-weight: 500;
+  }
+
+  .box-content {
+    padding: 20px;
+    .manage-order-group {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      text-align: center;
+    }
+  }
+  .border-title {
+    padding-bottom: 20px;
+    border-bottom: 1px solid #d8d7d7;
+  }
+}
